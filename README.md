@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durga Sai Manikanta</h1>
 <h3 align="center">IAM passionate Full STACK PYTHON Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiNadiu6563&label=Profile%20views&color=0e75b6&style=flat" alt="sainadiu6563" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiNadiu6563&label=Profile%20views&color=0e75b6&style=flat" alt="saiNadiu6563" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiNadiu6563" alt="saiNadiu6563" /></a> </p>
 
