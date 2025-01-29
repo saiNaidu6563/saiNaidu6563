@@ -1,9 +1,4 @@
-<style>
-  .s{
-    display:flex
-    justify-content:space_evenly
-  }
-</style>
+
 <h1 align="center">Hi 👋, I'm Durga Sai Manikanta</h1>
 <h3 align="center">IAM passionate Full STACK PYTHON Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
